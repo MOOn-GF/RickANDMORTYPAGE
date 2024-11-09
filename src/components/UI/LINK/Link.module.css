@@ -1,0 +1,10 @@
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    transition: 0.3s;
+}
+.link:hover{
+   font-size: large;
+    color: #77fcfc;
+}

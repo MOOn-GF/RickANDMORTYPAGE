@@ -1,0 +1,12 @@
+.statcube{
+    display: flex;
+    gap: 5px;
+    
+    align-items: center;
+    height: 20px;
+}
+
+.stat{
+    font-size: 17px;
+ font-weight: 800;
+}

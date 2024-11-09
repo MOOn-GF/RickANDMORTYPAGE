@@ -1,0 +1,14 @@
+.sign{
+    width: 100px;
+    height: 50px;
+    background-color: #38e893;
+    border-radius: 10px;
+    transition: 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign:hover{
+    background-color: #28db85;
+    color: #77fcfc;
+}
